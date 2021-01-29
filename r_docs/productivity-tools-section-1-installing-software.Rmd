@@ -188,7 +188,7 @@ Which of the following statements about R and RStudio is true?
 
 * You can only use R on Mac OS X and Linux. Windows users must use RStudio.  
 
-**ANSWER: **  
+**ANSWER: R is a programming language, whereas RStudio is a desktop environment.**  
 
 
 ### Q2
@@ -204,7 +204,7 @@ Which of the following is not true about installing packages? *Select ALL that a
 
 * Installing a package by building from GitHub will give you the exact same version as on CRAN  
 
-**ANSWER: **  
+**ANSWER: Installed packages will remain installed even if you upgrade R; Installing a package by building from GitHub will give you the exact same version as on CRAN**  
 
 
 ### Q3
@@ -222,7 +222,7 @@ Which of the following commands for editing scripts is not correct?
 
 * To comment selected text: Ctrl+Shift+C or Command+Shift+C for Mac.  
 
-**ANSWER: **  
+**ANSWER: To run a single line of script: Ctrl+Shift / Command+Shift while cursor pointing to that line, or select the chunk and click "run"**  
 
 
 ### Q4
@@ -239,7 +239,7 @@ Which of the following statements about keeping organized with RStudio projects 
 
 * Creating a new R project will produce an .Rproj file associated with the project.  
 
-**ANSWER: **  
+**ANSWER: You must always start a project in a new directory.**  
 
 
 ### Q5
@@ -256,8 +256,9 @@ What can you change in the global options? *Select ALL that apply.*
 
 * Customize key binding  
 
-**ANSWER: **  
+**ANSWER: Move the editor pane to the upper right; Change the editor theme to a dark background; Customize key binding**  
 
+*You can adjust the arrangements of panes in “Pane Layout”, change theme in “Appearance”, and modify key binding in “Code”. But project-specific configurations are set in “Project options”, not “global options”.*  
 
 ### Q6
 
@@ -273,8 +274,9 @@ What does the term "pull" mean in the context of using Git in RStudio?
 
 * Save changes made in RStudio to the local repository on your computer.  
 
-**ANSWER: **  
+**ANSWER: Download changes from the remote repo to your local repository.**  
 
+*We "pull" changes from the remote repo on GitHub to directories on our computers.*  
 
 ### Q7
 
@@ -290,8 +292,9 @@ What does the term “push” mean in the context of using Git in RStudio?
 
 * Save changes made in RStudio to the local repository on your computer.  
 
-**ANSWER: **  
+**ANSWER: Upload changes made in your local repository to a remote repository.**  
 
+*We “push” files to add them to a remote GitHub repository from our local computers.*  
 
 ### Q8
 
@@ -307,8 +310,9 @@ What does the term “commit” mean in the context of using Git in RStudio?
 
 * Save changes made in RStudio to the local repository on your computer.  
 
-**ANSWER: **  
+**ANSWER: Save changes made in RStudio to the local repository on your computer.**  
 
+*A “commit” is like saving a file that you’re working on. Be sure to write a brief description about what you changed in that file.*  
 
 ### Q9
 
